@@ -24,11 +24,11 @@ namespace Snake_And_Ladder
             //Depending upon there position it will tell who is the winner
             if(SPosition>FPosition)
             {
-                Console.WriteLine("\nCONGRATULATION\nSecond Player WON the game");
+                Console.WriteLine("\nCONGRATULATION\nSecond Player WON The Game");
             }
             else
             {
-                Console.WriteLine("\nCONGRATULATION\nFirst Player WON the game");
+                Console.WriteLine("\nCONGRATULATION\nFirst Player WON The Game");
             }
             Console.Read();
             
